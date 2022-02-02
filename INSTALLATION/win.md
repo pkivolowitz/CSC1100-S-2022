@@ -19,7 +19,7 @@ Visual Studio Code (NOT VISUAL STUDIO) will be our editor.
 
 ![VSCode](./vscode.png)
 
-If, for reasons known only to Bill Gaits, the Microsoft Store refuses to work, search for Visual Studio Code online:
+If, for reasons known only to Bill Gates, the Microsoft Store refuses to work, search for Visual Studio Code online:
 
 ![VSCode](./code2.png)
 
